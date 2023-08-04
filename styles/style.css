@@ -192,6 +192,12 @@ main {
 .sponsor-img-container img {
     width: 165px;
 }
+.footer{
+    border-radius: 8px;
+    background: #FFF4E7;
+    text-align: center;
+    padding: 40px;
+}
 
 @media screen and (max-width: 576px) {
     .header {
